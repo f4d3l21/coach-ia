@@ -57,7 +57,8 @@ Puis ouvre le lien local fourni par Streamlit dans ton navigateur.
 
 ## 🎥 Démonstration
 
-▶️ https://youtu.be/QSaEX2VIu8w
+▶️ VIDEO : https://youtu.be/QSaEX2VIu8w
+▶️ SITE HEBERGER : https://coach-ia-fybzrdabeouehvedzmxx7n.streamlit.app
 
 
 
